@@ -1,17 +1,17 @@
-### Hi there 👋
+# 👋 Hi, I'm Tony!
 
-<!--
-Request ID = 17012022/8628624
-**tonysamperi/tonysamperi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Web software engineer | 🏗️ Project Manager @ KIKO Milano
 
-Here are some ideas to get you started:
+Welcome to my GitHub home! I'm an experienced web developer with a strong focus on **Angular** and building scalable, high-performance applications. Currently, I work as a **Project Manager** at KIKO Milano, leading digital projects, manage development teams, and ensure high-quality product delivery.
+I also take care of setting up solutions for efficient developing, testing and continuous delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Frontend:** Angular, Next.js, TypeScript, RxJS, SASS
+- **Backend:** Nest.js, Express.js, Spring Boot, Lumen
+- **Tools:** Git, Docker, CI/CD
+- **Project Management:** Jira, Trello, Confluence
+
+## 📫 Find me on
+- [LinkedIn](https://www.linkedin.com/in/tonysamperi/)
+
+⚡ _Always looking for new challenges and growth opportunities!_
