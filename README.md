@@ -14,4 +14,9 @@ I also take care of setting up solutions for efficient developing, testing and c
 ## 📫 Find me on
 - [LinkedIn](https://www.linkedin.com/in/tonysamperi/)
 
+## 🔥 Some of my libs
+- [ngx-mat-timepicker](https://tonysamperi.github.io/ngx-mat-timepicker/)
+- [ngx-float-ui](https://tonysamperi.github.io/ngx-float-ui/)
+- [ts-luxon](https://tonysamperi.github.io/ts-luxon/)
+
 ⚡ _Always looking for new challenges and growth opportunities!_
